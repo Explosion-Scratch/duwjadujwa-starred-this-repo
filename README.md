@@ -82,3 +82,4 @@ Make a PR to remove yourself if you want to do it again
 - [leocabbage2008](https://github.com/leocabbage2008)
 - [p4block](https://github.com/p4block)
 - [Kaoticz](https://github.com/Kaoticz)
+- [i6c](https://github.com/i6c)
