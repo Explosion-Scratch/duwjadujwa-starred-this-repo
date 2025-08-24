@@ -84,3 +84,4 @@ Make a PR to remove yourself if you want to do it again
 - [Kaoticz](https://github.com/Kaoticz)
 - [i6c](https://github.com/i6c)
 - [V3NCO](https://github.com/V3NCO)
+- [duwjadujwa](https://github.com/duwjadujwa)
